@@ -1,4 +1,4 @@
-<h2 align="left">Hola, me llamo Joan Alejandro...</h2>
+<h2 align="left">Hola...</h2>
 
 ###
 
