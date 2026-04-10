@@ -1,4 +1,4 @@
-<h2 align="left">Hola. Este es un perfil github sencillo, humilde de Joan Alejandro, se manejar:</h2>
+<h2 align="left">Hola. Este es un perfil de github sencillo, humilde donde "se" manejar:</h2>
 
 ###
 
